@@ -1,0 +1,36 @@
+body{
+	background-image: url(back1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.nav img{
+	border-radius: 50%;
+	height: 80px;
+	width: 80px;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+.nav figcaption{
+	font-size: 20px;
+	color: red;
+	font-family:cursive;
+}
+.collapse ul li{
+	font-family: cursive;
+	margin-top: 30px;
+
+}
+ul li:hover{
+	background-color: #ff80ff;
+	border-radius: 20px;
+}
+.nav1 h4{
+     font-size: 50px;
+     font-family: cursive;
+     margin-top: 65px;
+     color: #800055;
+}
+.nav1 img{
+	height: 400px;
+	width: 400px;
+}

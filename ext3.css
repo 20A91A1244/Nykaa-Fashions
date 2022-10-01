@@ -1,0 +1,225 @@
+body{
+	background-image: url(whistlist3.jpg);
+	background-size:cover;
+	background-repeat: no-repeat; 
+}
+.nav img{
+	border-radius: 50%;
+	height: 80px;
+	width: 80px;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+.nav figcaption{
+	font-size: 20px;
+	color: red;
+	font-family:cursive;
+}
+.collapse ul li{
+	font-family: cursive;
+	margin-top: 30px;
+
+}
+ul li:hover{
+	background-color: #ff80ff;
+	border-radius: 20px;
+}
+.nav1{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+}
+.nav1 img{
+	height: 300px;
+	width: 380px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav1 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav1 figcaption i:hover{
+	color: red;
+}
+.nav2{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+.nav2 img{
+	height: 300px;
+	width: 380px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav2 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav2 figcaption i:hover{
+	color: red;
+}
+.nav3{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 10px;
+}
+.nav3 img{
+	height: 300px;
+	width: 380px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav3 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav3 figcaption i:hover{
+	color: red;
+}
+.nav4{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav4 img{
+	height: 300px;
+	width: 380px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav4 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav4 figcaption i:hover{
+	color: red;
+}
+.nav5{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav5 img{
+	height: 300px;
+	width: 380px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav5 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav5 figcaption i:hover{
+	color: red;
+}
+.nav6{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav6 img{
+	height: 300px;
+	width: 380px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav6 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav6 figcaption i:hover{
+	color: red;
+}
+.nav7{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav7 img{
+	height: 300px;
+	width: 300px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav7 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav7 figcaption i:hover{
+	color: red;
+}
+.nav8{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav8 img{
+	height: 300px;
+	width: 300px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav8 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav8 figcaption i:hover{
+	color: red;
+}
+.nav9{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav9 img{
+	height: 300px;
+	width: 300px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav9 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav9 figcaption i:hover{
+	color: red;
+}
+.nav10{
+	background-color: #ffccff;
+	height: 440px;
+	border-radius: 20px;
+	margin-top: 40px;
+}
+.nav10 img{
+	height: 300px;
+	width: 300px;
+	margin-left: 28px;
+	margin-top: 20px;
+}
+.nav10 figcaption {
+	margin-left: 110px;
+	font-size: 20px;
+	font-family: italic;
+}
+.nav10 figcaption i:hover{
+	color: red;
+}
